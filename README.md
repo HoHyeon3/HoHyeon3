@@ -1,10 +1,12 @@
-반갑습니다
+Hi
 
-영남대학교 컴퓨터공학과에 재학중인 김호현 입니다
+I'm HoHyeonKim.
 
-요즘 관심을 가지고 있는 분야는 c++ 입니다
+I'm attending Yeungnam University.
 
-행복한 하루 보내시기 바랍니다
+I'm interested in C++ these days.
+
+have a nice day. Thank you.
 
 
 
